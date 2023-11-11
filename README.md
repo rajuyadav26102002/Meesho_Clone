@@ -1,2 +1,2 @@
-# Meesho_Clone
-I developed this Meesho-clone website using HTML, CSS , JS.
+# Meesho-Clone
+HTML, CSS, JavaScript
